@@ -15,6 +15,9 @@
 		64BC3AEE2BFA9ED50063EB4D /* PC_FamilyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BC3AED2BFA9ED50063EB4D /* PC_FamilyTests.swift */; };
 		64BC3AF82BFA9ED50063EB4D /* PC_FamilyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BC3AF72BFA9ED50063EB4D /* PC_FamilyUITests.swift */; };
 		64BC3AFA2BFA9ED50063EB4D /* PC_FamilyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BC3AF92BFA9ED50063EB4D /* PC_FamilyUITestsLaunchTests.swift */; };
+		64BC3B082BFAA0EF0063EB4D /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BC3B072BFAA0EF0063EB4D /* LoginView.swift */; };
+		64BC3B0A2BFAA28A0063EB4D /* LoginInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BC3B092BFAA28A0063EB4D /* LoginInput.swift */; };
+		64BC3B0C2BFAA2FE0063EB4D /* LoginButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BC3B0B2BFAA2FE0063EB4D /* LoginButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +49,9 @@
 		64BC3AF32BFA9ED50063EB4D /* PC FamilyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "PC FamilyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64BC3AF72BFA9ED50063EB4D /* PC_FamilyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PC_FamilyUITests.swift; sourceTree = "<group>"; };
 		64BC3AF92BFA9ED50063EB4D /* PC_FamilyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PC_FamilyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		64BC3B072BFAA0EF0063EB4D /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		64BC3B092BFAA28A0063EB4D /* LoginInput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginInput.swift; sourceTree = "<group>"; };
+		64BC3B0B2BFAA2FE0063EB4D /* LoginButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +105,9 @@
 				64BC3ADA2BFA9ED10063EB4D /* PC_FamilyApp.swift */,
 				64BC3ADC2BFA9ED10063EB4D /* ContentView.swift */,
 				64BC3ADE2BFA9ED10063EB4D /* Item.swift */,
+				64BC3B072BFAA0EF0063EB4D /* LoginView.swift */,
+				64BC3B0B2BFAA2FE0063EB4D /* LoginButton.swift */,
+				64BC3B092BFAA28A0063EB4D /* LoginInput.swift */,
 				64BC3AE02BFA9ED50063EB4D /* Assets.xcassets */,
 				64BC3AE22BFA9ED50063EB4D /* Preview Content */,
 			);
@@ -261,8 +270,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				64BC3ADD2BFA9ED10063EB4D /* ContentView.swift in Sources */,
+				64BC3B0C2BFAA2FE0063EB4D /* LoginButton.swift in Sources */,
 				64BC3ADF2BFA9ED10063EB4D /* Item.swift in Sources */,
 				64BC3ADB2BFA9ED10063EB4D /* PC_FamilyApp.swift in Sources */,
+				64BC3B082BFAA0EF0063EB4D /* LoginView.swift in Sources */,
+				64BC3B0A2BFAA28A0063EB4D /* LoginInput.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
