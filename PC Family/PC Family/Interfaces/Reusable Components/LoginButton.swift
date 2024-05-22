@@ -22,7 +22,7 @@ struct LoginButton: View {
                 .padding()
                 .foregroundColor(.white)
                 .background(RoundedRectangle(cornerRadius: 40)
-                    .stroke(Color.black, lineWidth: 1))
+                    .stroke(Color.black, lineWidth: 1.7))
                     .background(LinearGradient(gradient: Gradient(stops: [
                         .init(color: Color(hex: "#FF0000"), location: 0),
                         .init(color: Color(hex: "#BF0640"), location: 0.3),

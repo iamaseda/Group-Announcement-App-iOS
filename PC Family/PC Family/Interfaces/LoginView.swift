@@ -55,11 +55,12 @@ struct LoginView: View {
             LoginButton {
                 //sommeFunction
             }
+            .padding(.vertical)
 //        } else {
-            ProgressView()
-              .progressViewStyle(CircularProgressViewStyle(tint: .white))
-              .padding(.vertical, 8)
-              .frame(maxWidth: .infinity)
+//            ProgressView()
+//              .progressViewStyle(CircularProgressViewStyle(tint: .white))
+//              .padding(.top, 16)
+//              .frame(maxWidth: .infinity)
 //        }
         VStack {
             Text("Sign Up")
@@ -70,7 +71,7 @@ struct LoginView: View {
                 .fontWeight(.thin)
                 .foregroundColor(Color.blue)
                 .underline()
-        }.padding(.top, 16).padding(.horizontal)
+        }.padding(.top, 8).padding(.horizontal)
     }
     .padding()
       Spacer()
