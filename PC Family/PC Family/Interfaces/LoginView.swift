@@ -39,7 +39,7 @@ struct LoginView: View {
 //            .background(Color.blue)
         }
     
-        Text("Welcome to the Praise Church Family!")
+        Text("Welcome to the ____ Club Family!")
             .font(.largeTitle)
             .fontWeight(.bold)
             .multilineTextAlignment(.center)
