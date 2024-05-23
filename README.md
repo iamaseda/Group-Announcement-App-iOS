@@ -2,7 +2,7 @@
 <p>This iOS app is meant to be used by an organization to update its members on any ongoing and upcoming events and announcements, as well as enable members to register for events to express interest in attending and to quantify engagement for the organization. There will be chat features for members to ask and answer questions and a monthly or annual calendar so events can be viewed as a whole.</p>
 <h2><u>Wireframe UI Design - Figma</u></h2>
 <img width="450" alt="Screenshot 2024-05-23 at 1 02 24 PM" src="https://github.com/iamaseda/Group-Announcement-App-iOS/assets/75149107/3ec0d51d-3e13-4ce2-b8fd-e9fd9a085548">
-<img width="450" alt="WireframeBottomHalf" src="https://github.com/iamaseda/Group-Announcement-App-iOS/assets/75149107/b82154d2-5e15-416d-834d-abe77443b05a">
+<img height="200" alt="WireframeBottomHalf" src="https://github.com/iamaseda/Group-Announcement-App-iOS/assets/75149107/b82154d2-5e15-416d-834d-abe77443b05a">
 <h2><u>Swift Current App Interface/Progress</u></h2>
 <img width="350" alt="Screenshot 2024-05-23 at 1 26 39 PM" src="https://github.com/iamaseda/Group-Announcement-App-iOS/assets/75149107/70902376-ced2-4bd5-bd52-6e0defbef3d1">
 <img width="350" alt="Screenshot 2024-05-23 at 1 32 15 PM" src="https://github.com/iamaseda/Group-Announcement-App-iOS/assets/75149107/51350163-e026-4501-b53d-519d89eae375">
